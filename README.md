@@ -34,9 +34,9 @@ Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course,
 <details>
  <summary>Screenshots:</summary> 
  
- | ![cli-shot-1]() | ![cli-shot-2]() |
+ | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_linux_cli/1.jpg) | ![cli-shot-2](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_linux_cli/2.jpg) |
  | --- | --- |
- | ![cli-shot-3]() | ![cli-shot-4]() |
+ | ![cli-shot-3](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_linux_cli/3.jpg) | ![cli-shot-4](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_linux_cli/4.jpg) |
  
 </details>
 

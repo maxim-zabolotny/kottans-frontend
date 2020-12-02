@@ -40,5 +40,5 @@ I had no problems with this task. I mastered Linux in a technical school by perf
  
 </details>
 
-Regarding the articles about Nttp, I learned a lot of new things in them, since before that I had only superficial knowledge
+Regarding the articles about HTTP, I learned a lot of new things in them, since before that I had only superficial knowledge
 

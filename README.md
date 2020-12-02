@@ -2,7 +2,7 @@
 
 - [Git and GitHub](#git-and-github)
 - [Linux CLI and HTTP](#linux-cli-and-http)
-- [Linux CLI and HTTP](#git-collaboration)
+- [Git Collaboration](#git-collaboration)
 
 ## Git and GitHub
 

@@ -29,7 +29,7 @@ Pretty much everything in the courses was **new to me**:
 
 ## Linux CLI and HTTP
 
-Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course, because I'd already known most basic commands in linux CLI and used them in my work.
+I had no problems with this task. I mastered Linux in a technical school by performing laboratory work. But it was still useful to repeat the commands.
 
 <details>
  <summary>Screenshots:</summary> 
@@ -40,5 +40,5 @@ Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course,
  
 </details>
 
-As for the articles on HTTP I found interesting the second part, where specifics of HTTP connections, identification, authentication and caching are revealed. Most of this information was new to me. All I was familiar with before were HTTP request methods, response codes and structure of request and response messages.
+Regarding the articles about Http, I learned a lot of new things in them, since I did not know anything about it before
 

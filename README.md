@@ -3,10 +3,10 @@
 ## Progress
 
 -   [x] Git Basic
--   [] Linux CLI, HTTP
--   [] Git for Team Collaboration
--   [] Front-End Basics
--   [] Responsive Layouts
+-   [ ] Linux CLI, HTTP
+-   [ ] Git for Team Collaboration
+-   [ ] Front-End Basics
+-   [ ] Responsive Layouts
 -   [ ] HTML & CSS Practice
 -   [ ] JavaScript Basics
 -   [ ] Document Object Model
@@ -22,13 +22,13 @@
 
 <details>
     <summary>Version Control with Git</summary>
-    <img src="Git Basic/1.png">
+    <img src="https://github.com/maxim-zabolotny/kottans-frontend/blob/main/Git%20Basic/1.jpg">
 </details>
 
 <details>
     <summary>Learn Git Branching</summary>
-    <img src="Git Basic/2.png">
-    <img src="Git Basic/3.png">
+    <img src="https://github.com/maxim-zabolotny/kottans-frontend/blob/main/Git%20Basic/2.jpg">
+    <img src="https://github.com/maxim-zabolotny/kottans-frontend/blob/main/Git%20Basic/3.jpg">
 </details>
 
 -   I realized how important is to use _version control_ in software development.

@@ -26,7 +26,7 @@ Pretty much everything in the courses was **new to me**:
 
 </details>
 
-## Linux CLI and HTTP
+## Linux CLI and HTTP https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_git_collaboration/1.jpg
 
 I had no problems with this task. I mastered Linux in a technical school by performing laboratory work. But it was still useful to repeat the commands.
 
@@ -41,3 +41,13 @@ I had no problems with this task. I mastered Linux in a technical school by perf
 
 Regarding the articles about HTTP, I learned a lot of new things in them, since before that I had only superficial knowledge
 
+## Git Collaboration
+
+After completing all the tasks, I structured the knowledge that I already had on working with GitHub Learned how to work with fork
+<details>
+ <summary>Screenshots:</summary> 
+ 
+ | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_git_collaboration/1.jpg) | 
+ 
+</details>
+Regarding the articles about HTTP, I learned a lot of new things in them, since before that I had only superficial knowledge

@@ -24,12 +24,12 @@ Pretty much everything in the courses was **new to me**:
  <summary>Screenshots:</summary>  
  
  ### Version Control with Git at [udacity](https://www.udacity.com/course/version-control-with-git--ud123)
- ![git-udacity](http://joxi.ru/J2by0PocVM1ygm.png)
+ ![git-udacity](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/Git%20Basic/1.jpg)
 
 ### Learn Git Branching at [learngitbranching](https://learngitbranching.js.org/)
 
-![git-learngitbranching](http://joxi.ru/Vm6zg8EivK6dMm.png)
-![git-learngitbranching](http://joxi.ru/5mdolPVC8JdVXr.png)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/Git%20Basic/2.jpg)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/Git%20Basic/3.jpg)
 
 </details>
 
@@ -40,9 +40,9 @@ Nothing was new to me in the [linuxsurvival](https://linuxsurvival.com/) course,
 <details>
  <summary>Screenshots:</summary> 
  
- | ![cli-shot-1](task_linux_cli/cli-1.png) | ![cli-shot-2](task_linux_cli/cli-2.png) |
+ | ![cli-shot-1]() | ![cli-shot-2]() |
  | --- | --- |
- | ![cli-shot-3](task_linux_cli/cli-3.png) | ![cli-shot-4](task_linux_cli/cli-4.png) |
+ | ![cli-shot-3]() | ![cli-shot-4]() |
  
 </details>
 
@@ -61,9 +61,9 @@ In the course [GitHub & Collaboration](https://classroom.udacity.com/courses/ud4
 <details>
  <summary>Screenshots:</summary> 
  
-![git colab udacity](task_git_collaboration/git-colab-udacity.png)
-![git learngitbranching 1](task_git_collaboration/git-colab-lgb-1.png)
-![git learngitbranching 2](task_git_collaboration/git-colab-lgb-2.png)
+![git colab udacity]()
+![git learngitbranching 1]()
+![git learngitbranching 2]()
  
 </details>
 
@@ -78,9 +78,9 @@ I already had knowledge of most of what is in these courses and used it in pract
 <details>
  <summary>Screenshots:</summary> 
  
-![css/html udacity](task_html_css_intro/html-css-udacity.png)
-![learn html codecademy](task_html_css_intro/html-css-ca-1.png)
-![learn css codecademy](task_html_css_intro/html-css-ca-2.png)
+![css/html udacity]()
+![learn html codecademy]()
+![learn css codecademy]()
  
 </details>
 
@@ -98,8 +98,8 @@ Also it was useful to recall flexbox properties.
 <details>
  <summary>Screenshots:</summary> 
  
-![udacity responsive web design](task_responsive_web_design/udacity_responsive_web_design.png)
-![flexbox froggy](task_responsive_web_design/flexbox-froggy.png)
+![udacity responsive web design]()
+![flexbox froggy]()
  
 </details>
 
@@ -124,7 +124,7 @@ Intermediate algorithm scripting challenges were a little tough and made me unde
 <details>
  <summary>Screenshots:</summary> 
  
-![udacity intro to js](task_js_basics/udacity_intro_js.png)
-![freecodecamp js basics](task_js_basics/freecodecamp.png)
+![udacity intro to js]()
+![freecodecamp js basics]()
  
 </details>

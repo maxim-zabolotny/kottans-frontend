@@ -3,6 +3,7 @@
 - [Git and GitHub](#git-and-github)
 - [Linux CLI and HTTP](#linux-cli-and-http)
 - [Git Collaboration](#git-collaboration)
+- [Intro to HTML and CSS](#intro-to-html-and-css)
 
 ## Git and GitHub
 
@@ -51,4 +52,17 @@ After completing all the tasks, I structured the knowledge that I already had on
  | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_git_collaboration/1.jpg) | 
  
 </details>
+
+## Intro to HTML and CSS
+
+There were no problems with the assignment, as I already knew all this. But it was helpful to repeat
+ <summary>Screenshots:</summary> 
+ 
+ | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/1.jpg) |
+ 
+ | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/2.jpg) | 
+ 
+ 
+</details>
+
 

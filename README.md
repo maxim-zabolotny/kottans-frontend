@@ -57,16 +57,6 @@ After completing all the tasks, I structured the knowledge that I already had on
 ## Intro to HTML and CSS
 
 There were no problems with the assignment, as I already knew all this. But it was helpful to repeat
- <summary>Screenshots:</summary> 
- 
- ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/1.jpg)
- ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/2.jpg)
- 
-</details>
-
-## Intro to HTML and CSS
-
-There were no problems with the assignment, as I already knew all this. But it was helpful to repeat
 
 <details>
  <summary>Screenshots:</summary>  

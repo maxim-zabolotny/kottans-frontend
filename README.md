@@ -59,10 +59,8 @@ After completing all the tasks, I structured the knowledge that I already had on
 There were no problems with the assignment, as I already knew all this. But it was helpful to repeat
  <summary>Screenshots:</summary> 
  
- | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/1.jpg)
- 
- | ![cli-shot-1](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/2.jpg) | 
- 
+ ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/1.jpg)
+ ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/2.jpg)
  
 </details>
 

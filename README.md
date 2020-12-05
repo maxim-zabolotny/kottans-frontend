@@ -3,7 +3,8 @@
 - [Git and GitHub](#git-and-github)
 - [Linux CLI and HTTP](#linux-cli-and-http)
 - [Git Collaboration](#git-collaboration)
-- [Intro to HTML and CSS](#intro-to-html-and-css)
+- [Intro to HTML and CSS](#intro-to-html-and-css) 
+- [Responsive Web Design](#responsive-web-design) 
 
 ## Git and GitHub
 
@@ -65,5 +66,19 @@ There were no problems with the assignment, as I already knew all this. But it w
 ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_html_css_intro/2.jpg)
 
 </details>
+
+## Responsive Web Design
+
+I learned a lot about responsive design. Got a deeper understanding in it
+I was familiar with flexes, there were no difficulties with them
+
+<details>
+ <summary>Screenshots:</summary>  
+ 
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_responsive_web_design/1.jpg)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_responsive_web_design/2.jpg)
+
+</details>
+
 
 

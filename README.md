@@ -5,7 +5,7 @@
 - [Git Collaboration](#git-collaboration)
 - [Intro to HTML and CSS](#intro-to-html-and-css) 
 - [Responsive Web Design](#responsive-web-design)
-- [JavaScript Basics](#javaScript-basics) 
+- [JavaScript Basics](#js-basics) 
 
 ## Git and GitHub
 

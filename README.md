@@ -82,7 +82,7 @@ I was familiar with flexes, there were no difficulties with them
 
 </details>
 
-## HTML & CSS Practice (https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+## [HTML & CSS Practice] (https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
 It was interesting to know that you can react to button press events on a pure css
 

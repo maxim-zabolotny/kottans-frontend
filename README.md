@@ -5,6 +5,7 @@
 - [Git Collaboration](#git-collaboration)
 - [Intro to HTML and CSS](#intro-to-html-and-css) 
 - [Responsive Web Design](#responsive-web-design)
+- [HTML & CSS Practice](#HTML-&-CSS-Practice)
 - [JavaScript Basics](#js-basics) 
 
 ## Git and GitHub
@@ -80,6 +81,14 @@ I was familiar with flexes, there were no difficulties with them
 ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_responsive_web_design/2.jpg)
 
 </details>
+
+## HTML & CSS **Practice** (https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+
+It was interesting to know that you can react to button press events on a pure css
+
+Watch the [Demo](https://maxim-zabolotny.github.io/maxim-zabolotny-html-css-popup.github.io/)
+
+And check the [Code base](https://github.com/maxim-zabolotny/kottans-frontend/tree/main/html-css-popup)
 
 ## JS Basics
 Previously, I already knew the basics of js including es6. Principles of functional programming were new to me:

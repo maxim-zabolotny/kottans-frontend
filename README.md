@@ -4,7 +4,8 @@
 - [Linux CLI and HTTP](#linux-cli-and-http)
 - [Git Collaboration](#git-collaboration)
 - [Intro to HTML and CSS](#intro-to-html-and-css) 
-- [Responsive Web Design](#responsive-web-design) 
+- [Responsive Web Design](#responsive-web-design)
+- [JavaScript Basics](#javaScript-basics) 
 
 ## Git and GitHub
 
@@ -77,6 +78,20 @@ I was familiar with flexes, there were no difficulties with them
  
 ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_responsive_web_design/1.jpg)
 ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_responsive_web_design/2.jpg)
+
+</details>
+
+## JS Basics
+Previously, I already knew the basics of js including es6. Principles of functional programming were new to me:
+1. Don't alter a variable or object - create new variables and objects and return them if need be from a function.
+2. Declare function arguments - any computation inside a function depends only on the arguments, and not on any global object or variable.
+
+FreeCodeCamp tasks were pretty easy at the first, but then became more complicated and I needed to looking for some extra materials.
+<details>
+ <summary>Screenshots:</summary>  
+ 
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_basics/1.jpg)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_basics/2.jpg)
 
 </details>
 

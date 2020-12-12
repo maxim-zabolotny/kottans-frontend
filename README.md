@@ -5,7 +5,7 @@
 - [Git Collaboration](#git-collaboration)
 - [Intro to HTML and CSS](#intro-to-html-and-css) 
 - [Responsive Web Design](#responsive-web-design)
-- [HTML & CSS Practice](#HTML-&-CSS-Practice)
+- [HTML & CSS Practice](#html-&-css-practice)
 - [JavaScript Basics](#js-basics) 
 
 ## Git and GitHub
@@ -82,7 +82,7 @@ I was familiar with flexes, there were no difficulties with them
 
 </details>
 
-## HTML & CSS **Practice** (https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+## HTML & CSS Practice (https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 
 It was interesting to know that you can react to button press events on a pure css
 

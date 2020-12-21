@@ -107,10 +107,10 @@ FreeCodeCamp tasks were pretty easy at the first, but then became more complicat
 ## DOM
 PInformation about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN. The difference between textContent and innerText was surprising. The performance part was especially interesting(createDocumentFragment was new for me).
 
-# FreeCodeCamp
+### FreeCodeCamp
 This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc. I think all of this information will be useful in the future.
 
-# [Document Object Model Practical task ](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
+#### [Document Object Model Practical task ](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
 
 Watch the [Demo](https://maxim-zabolotny.github.io/dom-practise.github.io/)
 

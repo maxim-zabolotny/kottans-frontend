@@ -135,7 +135,7 @@ And check the [Code base](https://github.com/maxim-zabolotny/dom-practise.github
  <summary>Screenshots:</summary>  
  
 ![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_oop/1.png)
-![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_oop/2.png)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_oop/2.jpg)
 
 </details>
 

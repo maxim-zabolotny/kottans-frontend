@@ -124,6 +124,10 @@ And check the [Code base](https://github.com/maxim-zabolotny/dom-practise.github
 
 </details>
 
+## Building a Tiny JS World
+
+[Demo] ("https://maxim-zabolotny.github.io/tiny-js-world.github.io/")
+[Code] ("https://github.com/maxim-zabolotny/tiny-js-world.github.io")
 
 
 

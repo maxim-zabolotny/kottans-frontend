@@ -142,3 +142,8 @@ And check the [Code base](https://github.com/maxim-zabolotny/dom-practise.github
 + With this course and extra materials i learned about prototypes and delegation.
 + This is a very difficult topic as for me, but it is very important to learn.
 + I intend to use OOP principles in future.
+
+## OOP exercise
+
+[Demo](https://maxim-zabolotny.github.io/tiny-js-world.github.io/) | 
+[Code](https://github.com/maxim-zabolotny/tiny-js-world.github.io)

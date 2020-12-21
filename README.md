@@ -129,5 +129,16 @@ And check the [Code base](https://github.com/maxim-zabolotny/dom-practise.github
 [Demo](https://maxim-zabolotny.github.io/tiny-js-world.github.io/) | 
 [Code](https://github.com/maxim-zabolotny/tiny-js-world.github.io)
 
+## Object Oriented JS
 
+<details>
+ <summary>Screenshots:</summary>  
+ 
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_oop/1.png)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_oop/2.png)
 
+</details>
+
++ With this course and extra materials i learned about prototypes and delegation.
++ This is a very difficult topic as for me, but it is very important to learn.
++ I intend to use OOP principles in future.

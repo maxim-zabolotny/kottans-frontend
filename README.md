@@ -107,16 +107,27 @@ FreeCodeCamp tasks were pretty easy at the first, but then became more complicat
 ## DOM
 PInformation about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN. The difference between textContent and innerText was surprising. The performance part was especially interesting(createDocumentFragment was new for me).
 
-##FreeCodeCamp
+### FreeCodeCamp
 This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc. I think all of this information will be useful in the future.
+
+#### [Document Object Model Practical task ](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
+
+Watch the [Demo](https://maxim-zabolotny.github.io/dom-practise.github.io/)
+
+And check the [Code base](https://github.com/maxim-zabolotny/dom-practise.github.io)
+
 <details>
  <summary>Screenshots:</summary>  
  
-![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_basics/1.jpg)
-![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_basics/2.jpg)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_dom/1.png)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_dom/2.png)
 
 </details>
 
+## Building a Tiny JS World
+
+[Demo](https://maxim-zabolotny.github.io/tiny-js-world.github.io/) | 
+[Code](https://github.com/maxim-zabolotny/tiny-js-world.github.io)
 
 
 

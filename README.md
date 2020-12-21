@@ -104,5 +104,19 @@ FreeCodeCamp tasks were pretty easy at the first, but then became more complicat
 
 </details>
 
+## DOM
+PInformation about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN. The difference between textContent and innerText was surprising. The performance part was especially interesting(createDocumentFragment was new for me).
+
+##FreeCodeCamp
+This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc. I think all of this information will be useful in the future.
+<details>
+ <summary>Screenshots:</summary>  
+ 
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_basics/1.jpg)
+![git-learngitbranching](https://github.com/maxim-zabolotny/kottans-frontend/blob/main/task_js_basics/2.jpg)
+
+</details>
+
+
 
 

@@ -10,6 +10,7 @@
 - [DOM](#dom)
 - [Tiny JS World](#building-a-tiny-js-world) 
 - [Object Oriented JS](#object-oriented-js) 
+- [OOP exercise](#oop-exercise) 
 
 ## Git and GitHub
 

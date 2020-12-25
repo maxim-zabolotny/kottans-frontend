@@ -7,6 +7,7 @@
 - [Responsive Web Design](#responsive-web-design)
 - [HTML And CSS Practice](#html-and-css-practice)
 - [JavaScript Basics](#js-basics) 
+- [DOM](#dom) 
 
 ## Git and GitHub
 

@@ -9,6 +9,7 @@
 - [JavaScript Basics](#js-basics) 
 - [DOM](#dom)
 - [Tiny JS World](#building-a-tiny-js-world) 
+- [Object Oriented JS](#object-oriented-js) 
 
 ## Git and GitHub
 
